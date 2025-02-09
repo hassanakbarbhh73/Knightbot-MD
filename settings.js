@@ -2,7 +2,7 @@ const settings = {
   packname: 'Knight',
   author: 'Bot',
   botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
+  botOwner: 'Hassan BHH', // Your name
   ownerNumber: '923552342783', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
